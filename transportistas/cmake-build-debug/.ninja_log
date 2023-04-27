@@ -1,0 +1,10 @@
+# ninja log v5
+2	129	7043104795749764	CMakeFiles/problemas_vuelta_atras.dir/main.c.obj	79f3e8ed6d40fb5
+8	107	7043101146558228	CMakeFiles/problemas_vuelta_atras.dir/imatriz2d.c.obj	a766861ae16311eb
+130	269	7043104797099796	problemas_vuelta_atras.exe	cd04d60d56cb3cb0
+3	335	7043107053819882	build.ninja	ccca15489394540
+2	104	7043101146528252	CMakeFiles/problemas_vuelta_atras.dir/ivector.c.obj	621dbe360c01cc4f
+3	149	7043107341152760	CMakeFiles/problemas_vuelta_atras.dir/imatriz2d.c.obj	80e758216959cd8
+19	165	7043107341172764	CMakeFiles/problemas_vuelta_atras.dir/ivector.c.obj	4dc21d9310c8b983
+10	170	7043107341372772	CMakeFiles/problemas_vuelta_atras.dir/main.c.obj	53cbfb1e27631ffb
+174	306	7043107342742635	problemas_vuelta_atras.exe	cd04d60d56cb3cb0

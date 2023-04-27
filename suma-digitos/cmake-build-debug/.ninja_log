@@ -1,0 +1,5 @@
+# ninja log v5
+3	274	7043106239713973	build.ninja	ffda73d6d4cc347a
+7	115	7043106195529713	CMakeFiles/suma_digitos.dir/ivector.c.obj	aed74fa2a56c34ed
+1	117	7043106195539718	CMakeFiles/suma_digitos.dir/main.c.obj	529e75d33db70a68
+117	261	7043106196949847	suma_digitos.exe	aa94a47e8bac8deb
